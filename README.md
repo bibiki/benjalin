@@ -7,4 +7,4 @@ That names this app as the app is inspired by mister Fraknlin's autobiography.
 
 You may freely copy this code and use it as you wish.
 
-If you'd rather just see the app, you can find it [here](https://gogle.com)
+If you'd rather just see the app, you can clone the code navigate to the root folder, that is benjalin, and then run ```npx expo start```
